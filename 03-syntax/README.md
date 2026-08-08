@@ -159,7 +159,7 @@
 |---|---|---|
 | **Akk** | haben, kaufen, suchen, sehen, essen, trinken, lesen, nehmen | Ich **kaufe** einen Apfel. |
 | **Dat** | helfen, danken, folgen, gefallen, gehören, antworten | Ich **helfe** dem Mann. |
-| **Akk + Dat** | geben, schenken, zeigen, erzählen, bringen, senden | Ich **gebe** dir(Akk-人?见下) **ein Buch**. |
+| **Akk + Dat** | geben, schenken, zeigen, erzählen, bringen, senden | Ich **gebe** dir(Dat-人) **ein Buch**(Akk-物). |
 
 > ⚠️ 双宾语动词:**人(Dat)在前,物(Akk)在后**。`Ich gebe **dem Kind**(Dat) **das Buch**(Akk).` —— 不是「先宾后双宾」的英语顺序。
 
@@ -190,9 +190,9 @@
 
 ### 5.1 永远加第四格 (Akk)
 
-**记忆口诀:DOGBUD**(durch ohne gegen für um ohne → 但缺 wider/bis)。A2 常用:
+共 7 个:`durch für gegen ohne um wider bis`。
 
-`durch für gegen ohne um wider bis`
+> **记忆口诀:DOGFUWIB**(durch-ohne-gegen-für-um-wider-bis,取首字母)。或记德语课堂上常用的「**durch-für-gegen-ohne-um**」五元组为核心，`wider/bis` 补记。
 
 - für **mich**, gegen **den Baum**, ohne **dich**, um **acht Uhr**
 - Ich kaufe das **für meinen Sohn**.(für + Akk,物主词尾跟格)

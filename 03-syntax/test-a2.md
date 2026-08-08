@@ -439,7 +439,7 @@
 291. Wir treffen uns (in + die Schule). → ____ Schule.
 292. Ich wohne (in + die Berliner Straße). → ____ Berliner Straße.
 293. Das Kind spielt (in + der Garten). → ____ Garten.
-294. Wir fahren (nach + die Schweiz)? → ____ Schweiz. (提示:国家名)
+294. Wir fahren (in + die Schweiz). → ____ Schweiz. (提示:带冠词国家用 in 不用 nach)
 295. Er arbeitet (bei + die Post). → ____ Post.
 296. Ich gehe (zu + der Arzt). → ____ Arzt.
 297. Das Auto steht (vor + das Haus). → ____ Haus.
@@ -543,7 +543,7 @@
 251.Wo；dem Tisch 252.Wohin；den Tisch 253.der Wand 254.die Wand 255.Berlin 256.die Stadt 257.dem Tisch 258.den Tisch 259.der Tür 260.die Tür
 261.im 262.am 263.zum 264.beim 265.vom 266.zur 267.ans 268.ins
 269.Akk 270.Dat 271.混合 272.Dat 273.Akk 274.混合 275.Akk 276.Dat 277.混合 278.Akk 279.Dat 280.Akk 281.Dat 282.Dat 283.混合 284.混合 285.混合 286.混合 287.混合 288.混合 289.Dat 290.Akk
-291.in die 292.in der 293.im 294.in die(瑞士带冠词 die Schweiz) 295.bei der 296.zum 297.vor dem 298.am 299.aus dem 300.seit einem
+291.in die 292.in der 293.im 294.in die(带冠词国家 die Schweiz 用 in + Akk,不用 nach) 295.bei der 296.zum 297.vor dem 298.am 299.aus dem 300.seit einem
 
 ### Abschnitt 8 · 综合
 

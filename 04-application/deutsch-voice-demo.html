@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Deutsch Voice — Demo (原创例词)</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#0f172a;--card:#1e293b;--accent:#3b82f6;--green:#10b981;--amber:#f59e0b;--rose:#f43f5e;--text:#e2e8f0;--muted:#94a3b8}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
+header{position:sticky;top:0;z-index:100;background:rgba(15,23,42,.97);backdrop-filter:blur(12px);border-bottom:1px solid #334155;padding:12px 20px}
+header h1{font-size:18px;font-weight:700;margin-bottom:4px}
+header .sub{font-size:12px;color:var(--muted);margin-bottom:8px}
+.controls{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.btn{padding:6px 12px;border-radius:8px;border:none;font-size:12px;font-weight:600;cursor:pointer;background:#475569;color:var(--text)}
+.btn:hover{background:#64748b}
+.container{max-width:760px;margin:0 auto;padding:12px}
+.section{margin-bottom:20px}
+.section-title{font-size:13px;font-weight:700;padding:8px 12px;color:var(--muted);text-transform:uppercase;letter-spacing:1px;border-bottom:1px solid #334155}
+.item{display:flex;align-items:center;gap:10px;padding:10px 14px;border-radius:10px;cursor:pointer;transition:all .15s;margin:3px 0;background:var(--card);-webkit-user-select:none;user-select:none}
+.item:hover{background:#334155;transform:translateX(4px)}
+.item.playing{background:#1e3a5f;box-shadow:0 0 0 2px var(--accent)}
+.item .num{min-width:28px;height:28px;display:flex;align-items:center;justify-content:center;border-radius:50%;font-size:11px;font-weight:700;flex-shrink:0;background:var(--accent);color:#fff}
+.item .text{flex:1;min-width:0}
+.item .de{font-size:15px;font-weight:500;line-height:1.4}
+.item .zh{font-size:12px;color:var(--muted);margin-top:2px}
+.item .genus{display:inline-block;padding:1px 7px;border-radius:8px;font-size:10px;font-weight:700;margin-left:6px}
+.genus-m{background:var(--accent);color:#fff}.genus-f{background:var(--rose);color:#fff}.genus-n{background:var(--green);color:#000}
+.note{font-size:12px;color:var(--muted);padding:10px 14px;background:var(--card);border-radius:10px;margin:8px 0;border-left:3px solid var(--amber);line-height:1.5}
+.note b{color:var(--text)}
+</style>
+</head>
+<body>
+<header>
+<h1>🔊 Deutsch Voice · 点读 Demo</h1>
+<div class="sub">原创例词（呼应 <code>02-morphology</code> 形态学）· 点击发音 · 完整歌德 A0–A2 版在私有仓 <a href="https://github.com/CacinieP/deutsch-voice" style="color:var(--accent)">deutsch-voice</a></div>
+<div class="controls">
+<button class="btn" id="hint">💡 为什么念冠词？</button>
+</div>
+</header>
+<div class="container">
+
+<div id="hint-box" class="note" style="display:none">
+<b>德语的「性」是名词的一部分。</b> 背 <code>Apfel</code> 没用，得背 <code>der Apfel</code>——因为说 <code>ich esse den Apfel</code> 时宾格要变 <code>der→den</code>。
+所以这个 demo 里每个名词都<strong>连定冠词一起念</strong>，逼耳朵把「性 + 词」当一个整体接收。详见 <code>02-morphology/README.md §1.1</code>。
+</div>
+
+<div class="section">
+<div class="section-title">三性例词（原创 · 点击听冠词）</div>
+<div id="words"></div>
+</div>
+
+<div class="section">
+<div class="section-title">原创例句（A0 入门）</div>
+<div id="sentences"></div>
+</div>
+
+</div>
+<script>
+// 原创例词 —— 不来自任何版权词表，仅用于演示「带冠词朗读」机制
+// 每个名词都带 der/die/das，点击整词发音（含冠词）
+const WORDS=[
+  {w:"der Tisch",zh:"桌子",g:"m",note:"阳性，无后缀，靠死记"},
+  {w:"die Lampe",zh:"灯",g:"f",note:"阴性后缀 -e 常见"},
+  {w:"das Buch",zh:"书",g:"n",note:"中性，复数 die Bücher（变元音+er）"},
+  {w:"der Apfel",zh:"苹果",g:"m",note:"复数 die Äpfel —— 连冠词一起背"},
+  {w:"die Sonne",zh:"太阳",g:"f",note:"阴性"},
+  {w:"das Mädchen",zh:"女孩",g:"n",note:"-chen 永远中性，哪怕指女性"},
+  {w:"der Mann",zh:"男人",g:"m",note:"阳性"},
+  {w:"die Frau",zh:"女人",g:"f",note:"阴性"},
+  {w:"das Kind",zh:"孩子",g:"n",note:"中性，复数 die Kinder（+er）"},
+  {w:"der Löffel",zh:"勺子",g:"m",note:"餐桌三件套都阳性"},
+  {w:"die Gabel",zh:"叉子",g:"f",note:"阴性"},
+  {w:"das Messer",zh:"刀",g:"n",note:"中性 —— der Löffel / die Gabel / das Messer"}
+];
+
+// 原创例句 —— 通用入门表达，非考试原文
+const SENTENCES=[
+  {de:"Guten Tag!",zh:"你好！（白天）"},
+  {de:"Wie heißt du?",zh:"你叫什么名字？"},
+  {de:"Ich heiße Anna.",zh:"我叫 Anna。"},
+  {de:"Woher kommst du?",zh:"你来自哪里？"},
+  {de:"Ich komme aus Deutschland.",zh:"我来自德国。"},
+  {de:"Danke, mir geht es gut.",zh:"谢谢，我很好。"}
+];
+
+var currentAudio=null,currentEl=null;
+
+function speak(text){
+  if(!('speechSynthesis' in window)){alert('浏览器不支持语音合成');return}
+  // 关键：保留冠词，不做任何剥离
+  var u=new SpeechSynthesisUtterance(text);
+  u.lang='de-DE';u.rate=0.85;u.pitch=1;
+  var de=speechSynthesis.getVoices().find(function(v){return v.lang.startsWith('de')});
+  if(de)u.voice=de;
+  speechSynthesis.cancel();
+  speechSynthesis.speak(u);
+}
+
+function renderWords(){
+  var c=document.getElementById('words');c.innerHTML='';
+  WORDS.forEach(function(w,i){
+    var el=document.createElement('div');el.className='item';
+    el.innerHTML='<div class="num">'+(i+1)+'</div><div class="text"><div class="de">'+w.w+'<span class="genus genus-'+w.g+'">'+w.g+'</span></div><div class="zh">'+w.zh+' · <span style="opacity:.7">'+w.note+'</span></div></div>';
+    el.onclick=function(){speak(w.w);flash(el)};
+    c.appendChild(el);
+  });
+}
+
+function renderSentences(){
+  var c=document.getElementById('sentences');c.innerHTML='';
+  SENTENCES.forEach(function(s,i){
+    var el=document.createElement('div');el.className='item';
+    el.innerHTML='<div class="num">'+(i+1)+'</div><div class="text"><div class="de">'+s.de+'</div><div class="zh">'+s.zh+'</div></div>';
+    el.onclick=function(){speak(s.de);flash(el)};
+    c.appendChild(el);
+  });
+}
+
+function flash(el){
+  if(currentEl)currentEl.classList.remove('playing');
+  el.classList.add('playing');currentEl=el;
+  setTimeout(function(){el.classList.remove('playing')},1500);
+}
+
+document.getElementById('hint').onclick=function(){
+  var b=document.getElementById('hint-box');
+  b.style.display=b.style.display==='none'?'block':'none';
+};
+
+if('speechSynthesis' in window)speechSynthesis.onvoiceschanged=function(){speechSynthesis.getVoices()};
+renderWords();
+renderSentences();
+</script>
+</body>
+</html>

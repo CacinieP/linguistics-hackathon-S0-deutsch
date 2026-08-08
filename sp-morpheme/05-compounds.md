@@ -75,8 +75,9 @@
 
 | 前 | 后 | 复合 |
 |---|---|---|
-| Mehr | Zweck | **Mehrzahl**(复数)/ **Mehrzweck**(多用) |
-| Dritt | Rad | **das Dreirad**(三三轮)→ 实为 Zahl+名词 |
+| Mehr | Zahl | **die Mehrzahl**(多数/复数) |
+| Mehr | Zweck | **der Mehrzweck**(多用) |
+| Drei | Rad | **das Dreirad**(三轮车) |
 | Haupt | Sache | **die Hauptsache** | 主要 |
 
 ### 2.6 名词 + 动词 / 形容词 + 动词 = 动词(较少)[B2]

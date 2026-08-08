@@ -32,16 +32,16 @@
 
 | 动词 | 名词 | 义 |
 |---|---|---|
-| `lehren` | **die Lehre**… 实为 -e(见下);正确:`die Lernung`? | (注意:lernen 不成名词化 -ung) |
 | `wohnen` | die **Wohnung** | 住所 |
 | `bedeuten` | die **Bedeutung** | 意义 |
-| `fühlen` | die **Fühlung** | (较少,取 Gefühl) |
 | `entwickeln` | die **Entwicklung** | 发展 |
 | `verändern` | die **Veränderung** | 改变 |
 | `entscheiden` | die **Entscheidung** | 决定 |
 | `erfahren` | die **Erfahrung** | 经验 |
-| `besuchen` | der **Besuch** (注意:-uch 阳,非 -ung) | 拜访 |
 | `vorstellen` | die **Vorstellung** | 概念/介绍 |
+| `fühlen` | die **Fühlung** | 感触(较少,常用 Gefühl) |
+| `hören` | die **Hörung** | 听(较少,常用 Gehör) |
+| `leiten` | die **Leitung** | 线路/领导 |
 
 > 规律强:`-ung` 一律**阴性**。例外极少。
 
@@ -74,7 +74,7 @@
 | `-ik` | 学科/风格 | die Musik, Politik, Physik, Grammatik |
 | `-ie` | 学说/状态 | die Demokratie, Energie, Garantie |
 | `-ei` | 场所/行为(本土) | die Bäckerei(面包店), Druckerei, Plauderei |
-| `-ur` | 结果 | die Natur, Kultur, Rechnung… 不,Rechnung; die Literatur |
+| `-ur` | 结果/抽象 | die Natur, Kultur, Literatur, Temperatur |
 
 ### 2.4 `-in` [A1] —— 阴性指人后缀(女性)
 
@@ -96,7 +96,8 @@
 | `Gesell` | die **Gesellschaft** | 社会 |
 | `Bruder` | die **Bruderschaft** | 兄弟会 |
 | `Mann` | die **Mannschaft** | 队伍 |
-| `Kenntnis` | die **Kenntnischaft**… 实为 Kenntnis | |
+| `Eigentum` | die **Eigenschaft** | 特性 |
+| `Meister` | die **Meisterschaft** | 冠军/技艺 |
 
 ---
 
@@ -149,8 +150,9 @@
 |---|---|
 | das **Dokument** | 文件 |
 | das **Element** | 元素 |
-| das **Pfund**… 不,本土 | |
 | das **Medikament** | 药物 |
+| das **Parlament** | 议会 |
+| das **Argument** | 论据 |
 
 ### 3.6 `-tum` [B2] —— 中性/阳性集合
 
@@ -262,11 +264,12 @@
 | 根 | 动词 | 功能 |
 |---|---|---|
 | `Handel` | **handeln** | 行为 |
-| `sticheln` | (反复/轻微) | 反复 |
-| `blitzen` | (异根) | |
-| `Löffel`→löffeln | 用勺 | 工具 |
-| `-ern`:`blättern`, **ändern**(←anders) | | |
-| 形容词→-ern(材料):**eisern, hölzern, gläsern** | 由…制的 | |
+| `Stich` | **sticheln** | 反复/轻微 |
+| `Löffel` | **löffeln** | 工具(用勺) |
+| `anders` | **ändern** | 使…化 |
+| `Blatt` | **blättern** | 反复(翻页) |
+
+**`-ern` 还用于材料形容词**(名词→「由…制的」):`Eisen → eisern, Holz → hölzern, Glas → gläsern, Gold → golden, Silber → silbern`。
 
 ---
 

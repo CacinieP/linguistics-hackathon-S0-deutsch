@@ -214,7 +214,7 @@
 | dann | 然后 |
 | sonst | 否则 |
 | außerdem | 此外 |
-| außerdem | 此外 |
+| ebenfalls | 同样地 |
 
 > 这类词**本身是副词性**,占第一位,主句动词在第二位(V2),如 `Ich war krank, deshalb **bleibe** ich zu Hause.`
 

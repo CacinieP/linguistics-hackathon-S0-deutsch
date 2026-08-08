@@ -38,13 +38,13 @@
 | `Wort` | 词 | [A1] | Wortschatz, Wortbildung, wörtlich |
 | `Auto` | 汽车 | [A1] | Autobahn, Autofahrer |
 | `Schule` | 学校 | [A1] | Schüler, Schulaufgabe, Schuld(←不同根但形近) |
-| `Essen` | 吃/食物 | [A1] | Essen(n), untest…, Speise[同义] |
+| `Essen` | 吃/食物 | [A1] | essen(v), essbar, Speise(同义异根) |
 
 ### 2.2 动词根(高频动作)
 
 | 词根(词干) | 不定式 | 义 | CEFR | 同根派生 |
 |---|---|---|---|---|
-| `geh-` | gehen | 走 | [A1] | ausgehen, umgehen, gehören, Gehalt[同形异义] |
+| `geh-` | gehen | 走 | [A1] | ausgehen, umgehen, gehören(语源上同 geh-) |
 | `komm-` | kommen | 来 | [A1] | ankommen, mitkommen, bekommen(注意:得,非"来") |
 | `mach-` | machen | 做 | [A1] | festmachen, zumachen |
 | `sag-` | sagen | 说 | [A1] | ansagen, voraussagen |
@@ -88,12 +88,12 @@
 | `Reise` | 旅行 | [A2] | reisen, Reisende, Reiseführer |
 | `Gesundheit` | 健康 | [A2] | gesund, gesunden, heilen(异根) |
 | `Sicherheit` | 安全 | [A2] | sicher, sichern, gefährden(反义根) |
-| `Sprache` | 语言 | [A2] | Sprachkurs, sprachlos, Übersprache… |
+| `Sprache` | 语言 | [A2] | Sprachkurs, sprachlos, Sprachwissenschaft |
 | `Natur` | 自然 | [A2] | natürlich, Naturwissenschaft |
 | `Traum` | 梦 | [A2] | träumen, traumhaft |
 | `Liebe` | 爱 | [A2] | lieben, lieblich, verliebt |
 | `Kraft` | 力 | [A2] | Kräfte, kräftig, verstärken |
-| `Punkt` | 点 | [A2] | pünktlich, treffen(异根同义) |
+| `Punkt` | 点 | [A2] | pünktlich(异根派生), strich(同义异根) |
 
 ### 3.2 动词(强变化为主,记三态)
 
@@ -103,11 +103,11 @@
 | `find-` | finden / findet / gefunden | 找到 | [A2] | erfinden [B2](发明), befinden |
 | `denk-` | denken / denkt / gedacht | 想 | [A2] | sich ausdenken, Gedanke |
 | `lass-` | lassen / lässt / gelassen | 让 | [A2] | verlassen, hinterlassen |
-| `bleib-` | bleiben / bleibt / geblieben | 留 | [A2] | zurückbleiben, Kleben… |
-| `treff-` | treffen / trifft / getroffen | 遇 | [A2] | eintreffen, Untertreffen |
+| `bleib-` | bleiben / bleibt / geblieben | 留 | [A2] | zurückbleiben, stehenbleiben(复合) |
+| `treff-` | treffen / trifft / getroffen | 遇 | [A2] | eintreffen, Vortrag(异根同义) |
 | `woll-` | wollen / will / gewollt | 想要 | [A2] | Wille [B2], willen |
-| `bringe-` | bringen / bringt / gebracht | 带来 | [A2] | mitbringen, beitragen(异根形近) |
-| `halt-` | halten / hält / gehalten | 停/持 | [A2] | enthalten, behalten, Verhaltung |
+| `bring-` | bringen / bringt / gebracht | 带来 | [A2] | mitbringen, beitragen(异根,来 tragen) |
+| `halt-` | halten / hält / gehalten | 停/持 | [A2] | enthalten, behalten, Verhalten |
 | `steh-` | stehen / steht / gestanden | 站 | [A2] | entstehen, verstehen, gestehen |
 
 ### 3.3 形容词
@@ -140,10 +140,9 @@
 | `beeindruck-` | 印象 | [B1] | Eindruck, beeindruckend |
 | `gewinn-` | 赢 | [B1] | Gewinner, gewinnend |
 | `verlier-` | 失/输 | [B1] | Verlust [B2], Verlierer |
-| `erfahr-` | (同上) | | |
 | `aussag-` | 表达 | [B1] | Aussage, aussagen |
 | `samm-` | 收集 | [B1] | Sammlung, Sammler |
-| `schütz-` | 保护 | [B1] | Schutz, beschützen, Schüss… |
+| `schütz-` | 保护 | [B1] | Schutz, beschützen, Verbot(同义异根) |
 | `ursäch-` | 原因 | [B1] | Ursache, ursächlich, verursachen |
 | `verbind-` | 连接 | [B1] | Verbindung, verbindlich |
 | `unterscheid-` | 区分 | [B1] | Unterschied, unterschiedlich |
@@ -162,25 +161,25 @@
 | 词根 | 义 | CEFR | 长出的词 |
 |---|---|---|---|
 | `beantr-` | 申请 | [B2] | Antrag, beantragen |
-| `absorb-`(外来) | 吸收 | [B2] | Absorption |
-| `acht-` | 注意 | [B2] | beachten, Achtung |
+| `acht-` | 注意 | [B2] | beachten, Achtung, aufmerksam |
 | `erwerb-` | 获得 | [B2] | Erwerb, erwerbslos |
 | `verfüg-` | 支配 | [B2] | Verfügung, verfügen |
-| `nachweis-` | 证明 | [B2] | Nachweis, nachweisen |
-| `herstell-` | (见 B1) | | |
+| `nachweis-` | 证明 | [B2] | Nachweis, nachweisen, beweisen(同义) |
 | `begründ-` | 论证/创立 | [B2] | Begründung, Grundlage |
-| `zusammenhäng-` | 相关 | [B2] | Zusammenhang |
+| `zusammenhäng-` | 相关 | [B2] | Zusammenhang (复合: zusammen + hängen) |
 | `ausgleich-` | 平衡 | [B2] | Ausgleich, ausgleichen |
-| `beanspruch-` | 要求 | [B2] | beanspruchen |
-| `herausstell-` | 显示 | [B2] | herausstellen |
+| `beanspruch-` | 要求 | [B2] | beanspruchen, Anspruch |
+| `herausstell-` | 显示 | [B2] | herausstellen, darstellen(同义) |
 | `aufwend-` | 投入 | [B2] | Aufwand, aufwendig |
-| `berücksicht-` | 考虑 | [B2] | Berücksichtigung |
+| `berücksicht-` | 考虑 | [B2] | Berücksichtigung, berücksichtigen |
 | `förd-` | 促进 | [B2] | fördern, Förderung |
 | `umgang-` | 对待 | [B2] | Umgang, umgehen |
 | `belast-` | 负荷 | [B2] | Belastung, belastend |
-| `festschreib-` | 规定 | [B2] | Festschreibung |
-| `stift-` | 捐赠 | [B2] | Stiftung, stiften |
+| `stift-` | 捐赠/创立 | [B2] | Stiftung, stiften |
 | `befind-` | 处境 | [B2] | Befinden, befinden |
+| `verhalt-` | 行为 | [B2] | Verhalten, verhalten(sich) |
+| `hind-` | 阻碍 | [B2] | hindern, Hindernis |
+| `behaupt-` | 主张/维持 | [B2] | Behauptung, behaupten |
 
 ---
 
@@ -211,10 +210,11 @@
 | `spekul-`(拉) | 推测 | [C2] | Spekulation |
 | `manipul-`(拉) | 操纵 | [C2] | Manipulation |
 | `evalu-`(拉) | 评估 | [C2] | Evaluation |
-| `kogn-`(拉) | 认知 | [C2] | Kognition, kognitiv |
-| `strukturell` | | [C2] | strukturgleich |
-| `paradox-`(希) | 悖论 | [C2] | Paradoxon |
-| `satur-`(拉) | 饱和 | [C2] | Sättigung, sättigen |
+| `kogn-`(拉) | 认知 | [C2] | Kognition, kognitiv, erkennen(同义本土) |
+| `paradox-`(希) | 悖论 | [C2] | Paradoxon, paradox |
+| `satur-`(拉) | 饱和 | [C2] | Sättigung, sättigen, satt(本土同义) |
+| `fakt-`(拉) | 事实/做 | [C2] | Fakt, Faktor, Fabrik, perfekt(同根) |
+| `kurs-`(拉) | 跑/流 | [C2] | Kurs, aktuell, Rekord(同根) |
 
 ---
 
@@ -239,14 +239,14 @@
 | nehmen | nimmt | genommen | `nehm-/nahm/genomm-` | [A1] |
 | fahren | fährt | gefahren | `fahr-/fuhr/gefahr-` | [A1] |
 | geben | gibt | gegeben | `geb-/gab/gegeb-` | [A1] |
-| bringen | bringt | gebracht | `bring-/brachte/gebracht`(弱化强变化) | [A2] |
-| denken | denkt | gedacht | `denk-/dachte/gedacht` | [A2] |
-| wissen | weiß | gewusst | `wiss-/wusste/gewusst` | [A2] |
+| bringen | bringt | gebracht | `bring-/brachte/gebracht`(混合变化) | [A2] |
+| denken | denkt | gedacht | `denk-/dachte/gedacht`(混合变化) | [A2] |
+| wissen | weiß | gewusst | `wiss-/wusste/gewusst`(混合变化) | [A2] |
 | beginnen | beginnt | begonnen | `beginn-/begann/begonn-` | [B1] |
 | entscheiden | entscheidet | entschieden | `entscheid-/entschied/entschied-` | [B1] |
 | verlieren | verliert | verloren | `verlier-/verlor/verlor-` | [B1] |
 | erfahren | erfährt | erfahren | `erfahr-/erfuhr/erfahr-` | [B1] |
-| verstehen | versteht | verstanden | `steh-/stand/stand-` | [A2] |
+| verstehen | versteht | verstanden | `versteh-/verstand/verstand-` | [A2] |
 
 ---
 

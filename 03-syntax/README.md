@@ -84,9 +84,9 @@
 
 ### 2.3 中场 (Mittelfeld) 的内部顺序
 
-框中间的东西有个**经验顺序**(TEmpo-Mo-Lo,可背可不背,A2 知道即可):
+框中间的东西有个**经验顺序**(A2 知道即可):
 
-**TeMPo** = **Te**mpus(时间)· **Mo**dus(方式)· **P**lace(地点)... 但德语是 **Time before Place**(和英语相反!)。
+德语中场顺序是 **时间 → 地点**（**Zeit vor Ort**），和英语相反!
 
 - ✅ Ich fahre **morgen** **nach Berlin**.(时间 → 地点)
 - ❌ Ich fahre **nach Berlin** **morgen**.

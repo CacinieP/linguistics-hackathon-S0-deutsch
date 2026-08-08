@@ -110,11 +110,11 @@
 
 | Nom | Akk | Dat | Gen | 规律 |
 |---|---|---|---|---|
-| der Herr**n** | den Herr**n** | dem Herr**n**(e) | des Herr**n** | 词干也加 n |
+| der Herr | den Herr**n** | dem Herr**n** | des Herr**n** | 词干也加 n |
 | der Student | den Student**en** | dem Student**en** | des Student**en** | 后缀类 |
-| der Junge**n** | den Junge**n** | dem Junge**n** | des Junge**n** | -e 结尾 |
+| der Junge | den Junge**n** | dem Junge**n** | des Junge**n** | -e 结尾 |
 
-> 常见 n-变化阳性:**der Herr, Student, Junge, Kollege, Name(`des Namens` 带 s), Löwe, Affe, Neffe,zeuge→**
+> 常见 n-变化阳性:**der Herr, Student, Junge, Kollege, Name(`des Namens` 带 s), Löwe, Affe, Neffe, Zeuge**(证人)
 > 记法:**"所有格非主单,一律 -(e)n"**。唯一例外:`des Herrn`(Gen 也加 n)。
 
 #### ② Genitiv 加 -s(普通阳中)
@@ -314,7 +314,7 @@
 | 比较级 | + `-er` | klein-er, schön-er |
 | 最高级 | + `-st` | klein-st, schön-st |
 
-- 单音节、强变化动词词干常**变元音**: alt→ält-er→ält-est, groß→größ-er→größ-t, jung→jüng-er, viel→mehr→meist。
+- 单音节形容词常**变元音**: alt→ält-er→ält-est, groß→größ-er→größ-t, jung→jüng-er, viel→mehr→meist。
 - 形容词最高级作定语:**有定冠词式**(`der/die/das + -st + 变格词尾`):`das schönste Haus`。
 
 #### 不规则比较级(必背)

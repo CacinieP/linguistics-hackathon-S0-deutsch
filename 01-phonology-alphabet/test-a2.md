@@ -11,7 +11,7 @@
 
 1. 字母 **J** 的德语名称是?  a) je  b) jot  c) jay  d) ji
 2. 字母 **V** 的德语名称是?  a) vau  b) fau  c) ve  d) vi
-3. 字母 **W** 的德语名称是?  a) we  b) double-u  c) ve  d) we
+3. 字母 **W** 的德语名称是?  a) we  b) double-u  c) ve  d) ve(英语 V)
 4. 字母 **Y** 的德语名称是?  a) ypsilon  b) wai  c) ye  d) yi
 5. 字母 **Z** 的德语名称是?  a) zet  b) tset  c) sed  d) zi
 6. 字母 **Q** 的德语名称是?  a) qu  b) ku  c) qe  d) qua
@@ -101,7 +101,7 @@
 74. 「路」Straße 中的 a — l / k(长音,因 a + 单辅音 ß)
 75. 「日子」Tag 中的 a — l / k(长音,开音节)
 76. 「水」Wasser 中的 a — l / k(短音,因 a + 双辅音 ss)
-77. 「我们」wir 中的 i — l / k(短音)
+77. 「我们」wir 中的 i — l / k(长音)
 78. 「读书」lesen 中的 e — l / k(长音,开音节 le-sen)
 79. 「帽子」Hut(复 Hüte)中的 u — l / k(长音)
 80. 「孩子」Kind 中的 i — l / k(短音,i + 双辅音 nd)
@@ -266,10 +266,10 @@
 11.d 12.d 13.b 14.a 15.a 16.a 17.b 18.b 19.b 20.b
 21.Y/y 22.h;h 23.A;ee;oo 24.长 i [iː] 25.kv 26.[ts] 27.[j] 28.[z] 29.一个辅音组合 30.sh [ʃ]
 31.l 32.k 33.l 34.k 35.l 36.k 37.l 38.k 39.l 40.k
-41.l 42.k 43.l 44.l 45.l 46.k 47.l 48.k 49.k 50.k
+41.l 42.k 43.l 44.k 45.l 46.k 47.l 48.k 49.l 50.k
 51.l 52.k 53.l 54.k 55.schön; l 56.l 57.k 58.l 59.l 60.l
 61.k 62.l 63.l 64.l 65.l 66.l 67.l 68.l 69.l 70.l
-71.l(Vater 开音节长 a)72.k(Zimmer 短 i,双辅音 mm)73.k(Schiff 短 i,双辅音 ff)74.l(Straße 长 a,单辅音 ß)75.l(Tag 开音节长 a)76.k(Wasser 短 a,双辅音 ss)77.k(wir 短 i)78.l(lesen 开音节长 e)79.l(Hut 长 u)80.k(Kind 短 i,辅音簇 nd)
+71.l(Vater 开音节长 a)72.k(Zimmer 短 i,双辅音 mm)73.k(Schiff 短 i,双辅音 ff)74.l(Straße 长 a,单辅音 ß)75.l(Tag 开音节长 a)76.k(Wasser 短 a,双辅音 ss)77.l(wir 长 i [viːɐ̯])78.l(lesen 开音节长 e)79.l(Hut 长 u)80.k(Kind 短 i,辅音簇 nd)
 81.[ə] 82.[ɐ] 83.[ə] 84.[ɐ] 85.ham 86.弱化 87.[ɐ] 88.[ə] 89.1 个;[ə] 90.b 91.弱化/不发音 92.[n̩](口语常弱化为 [n̩] 或 [ən],接近 [n̩])
 93.[ɛː] 94.[ɛ] 95.[øː] 96.[œ] 97.[yː] 98.[ʏ] 99.[ɛː] 100.[øː]
 101.圆唇 102.圆唇 103.ä/ö/ü(三者)104.air 105.[e]/[ɛ] 106.[i]/[ɪ] 107.d(y 不是变元音字母)108.短 [œ] 109.长 [øː] 110.长 [yː]

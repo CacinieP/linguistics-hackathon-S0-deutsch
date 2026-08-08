@@ -48,10 +48,10 @@
 | 字母 | 长 | 例 | 短 | 例 |
 |---|---|---|---|---|
 | a | [aː] | **a**ber, Tat | [a] | **a**ll, Mann |
-| e | [eː] | L**e**ben, s**e**hr | [ɛ] | W**e**lt, m**e**nn |
-| i | [iː] | m**ie**n, w**ie**r | [ɪ] | **i**n, B**i**ld |
-| o | [oː] | S**o**hn, Gr**o**ß | [ɔ] | S**o**nn, v**o**n |
-| u | [uː] | **u**nd→短; B**u**ch→长 | [ʊ] | **u**nd, M**u**tter |
+| e | [eː] | L**e**ben, s**e**hr | [ɛ] | W**e**lt, n**e**nnen |
+| i | [iː] | m**ie**ne, w**ie** | [ɪ] | **i**n, B**i**ld |
+| o | [oː] | S**o**hn, Gr**o**ß | [ɔ] | S**o**nne, v**o**n |
+| u | [uː] | B**u**ch, **U**hr | [ʊ] | **u**nd, M**u**tter |
 
 > 拼写判断长短的规律(强,但非 100%):
 > - **双写元音 / 元音 + h → 长**:`Aal, Meer, Boot, Uhr`,以及 `gehen, nehmen, fahren`。
@@ -68,8 +68,8 @@
 | 字母 | 长 | 短 | 例 |
 |---|---|---|---|
 | ä | [ɛː] | [ɛ] | **Ä**rzte, B**ä**r / M**ä**dchen |
-| ö | [øː] | [œ] | s**ö**hne→长; L**ö**ffel→短 |
-| ü | [yː] | [ʏ] | **ü**ber→长; F**ü**nfe→短 |
+| ö | [øː] | [œ] | **S**öhne→长; L**ö**ffel→短 |
+| ü | [yː] | [ʏ] | **ü**ber→长; F**ü**nf→短 |
 
 > 发不出 `ö/ü`?**技巧**:
 > - `ö` = 先发 [e],保持舌头,**圆唇**。
@@ -103,7 +103,7 @@
 | **j** | [j] | **j**a [jaː],类似英语 y |
 | **r** | [ʁ] 词首/颤;[ɐ] 词尾弱化 | **R**ot 颤,**der** → [deːɐ] |
 | **ch** (a/o/u/au 后) | [x] | ma**ch**en, Bu**ch**, lau**ch**t |
-| **ch** (其它元音后/词首) | [ç] | i**ch**, Mö**r**… 不,**ch**inesisch, L**ö**ffel 后面 ch |
+| **ch** (其它元音后/词首) | [ç] | i**ch**, **ch**inesisch, L**ö**ffel 后面 ch |
 | **sch** | [ʃ] | **Sch**ule = 英语 sh |
 | **sp / st** (词首/音节首) | [ʃp / ʃt] | **Sp**iel = [ʃpiːl], **St**adt = [ʃtat] |
 | **sp / st** (词中/词尾) | [sp / st] | We**sp**e, Fe**st** |
@@ -139,9 +139,9 @@
 - **第一个音节重读**(日耳曼原生词):**LE**-ben, **WAS**-ser, **SCHU**-le。
 - **例外**:
   - **be- ge- er- ver- zer- ent- emp- miss-** 等不可分前缀词:重音在**前缀之后**:be-KOM-men, ver-SUCH-en。
-  - 外来词:常按原语重音:Pro-fes-**SOR**, Li-**RA**-ry → De-**MOK**-ra-tie。
+  - 外来词:常按原语重音:Pro-fes-**SOR**, De-mok-**RA**-tie。
   - 复合词:重音在**第一个成分**:**AU**-to-bahn, **KIND**-er-garten。
-- **-tion / -um / -ik** 等外来后缀重读该音节:Infoma-**TION**, Wis-**SENS**-schaft(本地后缀不重读)。
+- **-tion / -um / -ik** 等外来后缀重读该音节:In-for-ma-**TION**, Mu-**SIK**(本地后缀如 -schaft 不重读:**WIS**-sen-schaft)。
 
 ---
 
@@ -153,7 +153,7 @@
 |---|---|---|
 | ich | [ɪç] | ch 在 i 后是 [ç],不是 [k] |
 | dich | [dɪç] | 同上 |
-| auch | [aʊç] | au 后 ch 仍 [x]→口语混 [ç],au 本身是双元音 |
+| auch | [aʊx] | au 后 ch 是 [x](ach-Laut),au 本身是双元音 |
 | Schule | [ˈʃuːlə] | 词首 sch,词尾 e 弱化 |
 | Mädchen | [ˈmɛːtçən] | ä 长,chen 词缀 -chen |
 | groß | [ɡʁoːs] | ß 在长 o 后,ß=s |
@@ -170,13 +170,13 @@
 
 1. `Brötchen`(小面包)
 2. `Zusammen`(一起)
-3. `Tschiüss`(拜拜,正字为 `Tschüss`)
+3. `Tschüss`(拜拜)
 4. `Fragezeichen`(问号)
 5. `Schwierig`(困难的)
 
 **答案速查**:
 1. [ˈbʁœtçən] — ö 短 [œ],ch 在 ö 后是 [ç]
-2. [t͡suˈʔamən] — z=ts,s 在 a 前浊 [z]
+2. [t͡suˈzamən] — z=ts,s 在 a 前浊 [z],重音在 sam
 3. [t͡ʃʏs] — ü 短 [ʏ],注意拼写是 ss 不是 ß(因为短元音后)
 4. [ˈfʁaːɡəˌt͡saɪ̯çn̩] — z=ts,eu=[ɔɪ]
 5. [ˈʃviːʁɪç] — ig 词尾 [ɪç]

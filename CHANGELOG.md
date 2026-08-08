@@ -31,7 +31,7 @@
 - 使用 **voxcpm2**（支持 30+ 语种的 TTS）生成个性化 HTML 音频点读页。
 - 基于歌德学院 0-A2 大纲，把学过的语音/形态内容做成可点击发音的点读卡片。
 - modelbest 免费 API 体验平台：https://platform.modelbest.cn/console/login?ref=A93DCA73
-- 状态：**✅ 已完成**（详见下方「voxcpm2 点读工具实现」段，代码在私有仓 [`deutsch-voice`](https://github.com/CacinieP/deutsch-voice)，本仓 `04-application/` 放脱敏 demo）。
+- 状态：**✅ 已完成**（详见下方「voxcpm2 点读工具实现」段，脱敏 demo 在本仓 `04-application/`）。
 
 ### 时间线速览
 
@@ -53,7 +53,7 @@
 
 ## 2026-08-08 · voxcpm2 点读工具实现 (11:14 – 13:00) ✅
 
-把 11:33 的计划做成可用的点读 HTML。代码与完整产物在**私有仓** [`CacinieP/deutsch-voice`](https://github.com/CacinieP/deutsch-voice)（含歌德版权 PDF/词表派生音频，故不公开）；本仓 `04-application/` 放脱敏 demo。
+把 11:33 的计划做成可用的点读 HTML。因歌德词表/模考句属版权材料，完整产物不公开；本仓 `04-application/` 放脱敏 demo（原创例词 + 浏览器 TTS）。
 
 ### 做了什么
 
@@ -72,7 +72,7 @@
 - `A2WORDS` 里混入 42 条 PDF 解析残片（`n.` / `ch.` / `n Durst.` / `t mir nicht.` 等），清掉后 1370 → 1328 词。
 - 旧 `output/words/`（1507 个孤儿 mp3，HTML 从未引用）标注废弃。
 
-### 复现脚本（私有仓）
+### 复现脚本
 
 ```bash
 python3 clean_and_reindex.py   # 清洗 A2WORDS 解析残片 + 重建映射
@@ -87,4 +87,4 @@ python3 rebuild_html.py        # 注入 WORD_AUDIO_DB + 改写 speakWord
 - [ ] CP2 · 形态学补全收尾（14:00 前 push）
 - [ ] CP3 · 0–A2 句法规则遍历（V2 语序、从句动词尾置、框形结构、四格支配、介词+格）
 - [ ] CP4 · 综合自测 + 收官小结
-- [x] ~~voxcpm2 HTML 音频点读实现（TTS + 歌德 0-A2 大纲）~~ ✅ 2026-08-08 13:00 完成（私有仓 deutsch-voice + 本仓 04-application 脱敏 demo）
+- [x] ~~voxcpm2 HTML 音频点读实现（TTS + 歌德 0-A2 大纲）~~ ✅ 2026-08-08 13:00 完成（本仓 04-application 脱敏 demo）

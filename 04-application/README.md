@@ -16,13 +16,9 @@
 - 例词**全部原创**（der Tisch / die Lampe / das Buch …），不来自任何版权词表。
 - 每个名词**连定冠词一起念**（`der Apfel` 而非裸 `Apfel`）。
 
-### 完整版在哪
+### 关于完整版
 
-歌德学院 A0–A2 官方词表与模考句属于版权材料的派生作品，完整版（235 句 + 1952 词的 VoxCPM2 预生成音频）放在**私有仓**：
-
-🔒 **[`CacinieP/deutsch-voice`](https://github.com/CacinieP/deutsch-voice)** （private）
-
-公开仓只放这个脱敏 demo + 实现说明。
+歌德学院 A0–A2 官方词表与模考句属于版权材料的派生作品，完整版（235 句 + 1952 词的 VoxCPM2 预生成音频）未公开。本仓只放这个脱敏 demo + 实现说明。
 
 ---
 
@@ -36,7 +32,7 @@ demo 里点击 `der Apfel` 听到的是 "der Apfel" 而非 "Apfel"，就是这�
 
 ---
 
-## 技术实现（完整版，私有仓）
+## 技术实现（完整版）
 
 | 层 | 技术 |
 |----|------|
@@ -52,7 +48,6 @@ demo 里点击 `der Apfel` 听到的是 "der Apfel" 而非 "Apfel"，就是这�
 ### 复现脚本
 
 ```bash
-# 在私有仓 deutsch-voice 内
 python3 clean_and_reindex.py   # 清洗 PDF 解析残片 + 重建映射
 python3 tts_words.py           # 生成单词音频（~16 分钟 / 1952 词）
 python3 rebuild_html.py        # 注入音频 + 改写播放函数

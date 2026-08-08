@@ -174,7 +174,7 @@
 142. Ich gebe ____ Frau ein Buch.(die→Dat)
 143. Ich gebe ____ Kind ein Buch.(das→Dat)
 144. Ich gebe ____ Kindern ein Buch.(die→Dat)
-145. Das Buch gehört ____ Student.(der→Dat)
+145. Das Buch gehört ____ Studenten.(der→Dat,注意 n-变化)
 146. Wir warten auf ____ Bus.(der→Akk: auf+Akk)
 147. Ich denke an ____ Mutter.(die→Akk)
 148. Er hilft ____ Vater.(der→Dat:hilft+Dat)
@@ -367,7 +367,7 @@
 
 285. Wir ____ nach Berlin。(fahren)
 286. Er ____ ein Buch。(lesen)
-287. ____ du morgen Zeit haben?(单)
+287. ____ du morgen Zeit?(用 haben 的现在时,du 形式)
 288. Ich ____ morgen früh arbeiten。(müssen)
 289. Wie ____ du?(heißen)
 290. Wo ____ ihr her?(kommen)
@@ -543,7 +543,7 @@
 421. klein____ Hunde(m.Nom,无冠)
 422. schön____ Haus(n.Nom,无冠)
 423. neu____ Taschen(f.Pl.Nom,无冠)
-424. mit gut____ Freunden(m.Dat,无冠 → -em)
+424. mit gut____ Freunden(Pl.Dat,无冠 → -en)
 425. für alt____ Leute(Pl.Akk,无冠 → -e)
 426. kalt____ Bier(n.Akk,无冠)
 427. frisch____ Brot(n.Nom,无冠)
@@ -612,8 +612,7 @@
 41.die 42.das 43.der 44.die 45.der 46.die 47.das 48.der 49.der 50.die
 51.die 52.das 53.die 54.die 55.die 56.das(语言名多为中性)57.das 58.der 59.der 60.der
 61.b 62.b 63.b 64.b 65.c 66.a 67.a 68.b 69.c 70.c
-71.中性;语法性≠自然性别 72.c 73.d 74.d 75.复数定冠词 76.阳 77.阳 78.阳 79.das 80.Gelb/Green/任何颜色
-80答:das Grün(举例即可)
+71.中性;语法性≠自然性别 72.c 73.d 74.d 75.复数定冠词 76.阳 77.阳 78.阳 79.das 80.das Grün(或 das Gelb/Rot 等,任意颜色名即可,均中性)
 
 ### Abschnitt 2 · 单复数
 
@@ -626,7 +625,7 @@
 
 121.den 122.das 123.die 124.die 125.阳性 126.dem 127.dem 128.der 129.den;n 130.n
 131.des 132.s/es 133.Genitiv 134.Nominativ 135.Akkusativ 136.Dativ
-137.den 138.die 139.das 140.die 141.dem 142.der 143.dem 144.den 145.dem 146.den 147.die 148.dem 149.den 150.des/einem
+137.den 138.die 139.das 140.die 141.dem 142.der 143.dem 144.den 145.dem(Studenten)146.den 147.die 148.dem 149.den 150.ein/einem
 151.des 152.einen 153.der;eine 154.die 155.den 156.-(Deutsch 无冠)157.-(Berlin 城市无冠)158.die 159.das 160.dem
 161.dem 162.des 163.des 164.- (无冠,抽象)165.- (无冠)
 
@@ -652,9 +651,8 @@
 271.nimmst;nimmt 272.läufst;läuft 273.schläfst;schläft 274.trägst;trägt 275.wäschst;wäscht
 276.isst;isst 277.vergisst;vergisst 278.triffst;trifft 279.wirfst;wirft 280.brichst;bricht
 281.bin;bist;ist 282.habe;hast;hat 283.werde;wirst;wird 284.weiß;weißt;weiß
-285.fahren 286.liest 287.Hast(wirst→Hast Zeit haben 用 haben) 288.muss 289.heißt 290.kommt
+285.fahren 286.liest 287.Hast(haben 的 du 形式)288.muss 289.heißt 290.kommt
 291.gehört 292.bin 293.spricht 294.wissen 295.Sprechen 296.trinke 297.wohnt 298.machst 299.gehört 300.reisen
-287修正:Hast du morgen Zeit?(用 haben)→ Hast
 
 ### Abschnitt 7 · 情态动词
 
@@ -681,7 +679,7 @@
 
 401.-e 402.-e 403.-e 404.-en 405.-en 406.-e 407.-e 408.-en 409.-en 410.-en
 411.-er 412.-es 413.-e 414.-en 415.-es 416.-en 417.-en 418.-es 419.-en 420.-e
-421.-e 422.-es 423.-e 424.-en(m.Dat 无冠→-en… 实际 Pl.Dat 无冠 → -en;单数 m.Dat 无冠 → -em)424修正:mit guten Freunden(Pl.Dat 无冠 → -en)
+421.-e 422.-es 423.-e 424.-en(Pl.Dat 无冠 → -en;mit guten Freunden)
 425.-e 426.-es 427.-es 428.-en(m.Akk 无冠 → -en)429.(无词尾)430.(无词尾)
 431.kleiner;kleinst 432.schöner,schönst 433.älter,ältest 434.größer,größt 435.jünger,jüngst
 

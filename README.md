@@ -5,6 +5,13 @@
 
 A 48-hour **learn-in-public** hackathon: one person, zero → A2 German. This repo *is* the livestream — every push is a frame of the broadcast. Any app that comes out of it is a by-product; the real deliverable is the learning, recorded commit-by-commit.
 
+<div align="center">
+
+### 🔊 立即体验点读 Demo · [► 点击打开](./04-application/deutsch-voice-demo.html)
+原创例词 · 名词连定冠词一起念 · 呼应「连冠词一起背」方法论
+
+</div>
+
 ---
 
 ## 🎯 这是什么 / What this is
@@ -70,6 +77,8 @@ linguistics-hackathon-S0-deutsch/
 - [x] CP2 · 形态学补全 ✅
 - [x] CP3 · 0–A2 句法规则遍历 ✅
 - [ ] CP4 · 应用检查 ⏳
+
+📝 **完整时间线与每个 checkpoint 的现场记录见 [`CHANGELOG.md`](./CHANGELOG.md)**
 
 ---
 

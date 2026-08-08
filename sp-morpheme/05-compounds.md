@@ -12,7 +12,7 @@
                      ↑ 前半,定方向/范围     ↑ 后半,定词性与核心义
 ```
 
-- **性/复数由 Grundwort(后半)决定**:`die Wanderbahn` ← Autobahn(阴)。
+- **性/复数由 Grundwort(后半)决定**:`die Autobahn` ← die Bahn(阴);`der Kindergarten` ← der Garten(阳)。
 - **重音在 Bestimmungswort(前半)**:`AUto-bahn, KIND-er-garten`。
 - 三者之间常加**连接元素 -s- / -en- / -n-**(Fugen-s/-en)。
 

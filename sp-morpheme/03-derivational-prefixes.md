@@ -34,7 +34,7 @@
 | `suchen` → `besuchen` | 拜访 | Besuch |
 | `nutzen` → `benutzen` | 使用 | Benutzung |
 | `deuten` → `bedeuten` | 意味 | Bedeutung, bedeutend |
-| `grißen`→`begrüßen` | 问候 | Begrüßung |
+| `grüßen`→`begrüßen` | 问候 | Begrüßung |
 | `legen`→`belegen` | 占据/铺 | Beleg, belegbar |
 
 **功能**:`be-` 常把不及物动词变及物,或把名词「动词化施加」:`Bild → bilden, Grenze → begrenzen`。
@@ -92,12 +92,12 @@
 |---|---|
 | `decken → entdecken` | 发现(揭去) |
 | `gehen → entstehen` | 产生 |
-| `täuschen → enterält…` | (注意形近) |
+| `täuschen → enttäuschen` | 使失望(注意形近) |
 | `fern → entfernen` | 移开 |
 | `schuldigen → entschuldigen` | 原谅 |
 | `scheiden → entscheiden` | 决定 |
 | `fliehen → entfliehen` | 逃离 |
-| 形容词→ent-:gifitg→`entgiften`(解毒) | 去除 |
+| 形容词→ent-:giftig→`entgiften`(解毒) | 去除 |
 
 **功能**:相当于英语 `dis-/de-`——「反向/去除/开始」。
 
@@ -201,24 +201,25 @@
 
 ---
 
-## 5. 两可前缀(双重前缀 Doppelpräfix)[B1–B2]
+## 5. 两可前缀(双重前缀 Wechselpräfix)[B1–B2]
 
 > 同形前缀,**重音决定可分/不可分**,意义随之不同。
 > 规则:**重音落在前缀 → 可分(前缀跑到句尾);重音落在词干 → 不可分**。
 
-| 不定式 | 重音在哪 | 义 | 可分? |
+| 不定式(重音) | 重音在哪 | 义 | 可分? |
 |---|---|---|---|
-| **`um`armen** | 前缀 `um-` | 拥抱 | 可分 |
-| um**arm**en | 词干 | 围绕(罕) | 不可分 |
-| **`durch`sehen** | 前缀 `durch-` | 看穿/看透 | 可分 |
-| durch**seh**en | 词干 | 审阅(文件) | 不可分 |
-| **`über`setzen** | 前缀 `über-` | 渡过(河) | 可分 |
-| über**setz**en | 词干 | 翻译 | 不可分 |
-| **`wieder`holen** | 前缀 `wieder-` | 取回 | 可分 |
-| wieder**hol**en | 词干 | 重复 | 不可分 |
-| **`um`stellen** | 前缀 `um-` | 改变位置 | 可分 |
-| um**stell**en | 词干 | 包围 | 不可分 |
+| **`úm`fahren** | 前缀 `um-` | 撞倒 | 可分(`Ich fahre das Schild um`) |
+| um**`fárh`**ren | 词干 | 驶过/绕行 | 不可分(`Ich umfahre die Stadt`) |
+| **`dúrch`schauen** | 前缀 `durch-` | 透过…看 | 可分(`Ich schaue durch`) |
+| durch**`scháh`**en | 词干 | 看穿/识破 | 不可分(`Ich durchschaue ihn`) |
+| **`über`setzen** | 前缀 `über-` | 渡过(河) | 可分(`Wir setzen über`) |
+| über**`sétz`**en | 词干 | 翻译 | 不可分(`Ich übersetze den Text`) |
+| **`wieder`holen** | 前缀 `wieder-` | 取回 | 可分(`Ich hole es wieder`) |
+| wieder**`hól`**en | 词干 | 重复/复习 | 不可分(`Ich wiederhole die Frage`) |
+| **`úm`stellen** | 前缀 `um-` | 改变位置 | 可分(`Ich stelle die Möbel um`) |
+| um**`stéll`**en | 词干 | 包围 | 不可分(`Die Polizei umstellt das Haus`) |
 
+> ⚠️ 注意:`umarmen`(拥抱)虽然带 `um-`,但它**只有不可分一种**(`umármen`,重音在词干),不属两可前缀。
 > 听音辨义:同一个词,重音挪一格,意思就变。这是德语最微妙的前缀现象。
 
 ---

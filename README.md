@@ -1,4 +1,4 @@
-# linguistics-hackthon-S0-deutsch
+# linguistics-hackathon-S0-deutsch
 
 > 🎥 **学习直播黑客松** —— 一人挑战 48 小时，从 0 到 A2 德语。
 > GitHub 仓库即直播间，commit 流即直播画面。**应用只是副产品，学习本身才是主菜。**
@@ -51,7 +51,7 @@ A 48-hour **learn-in-public** hackathon: one person, zero → A2 German. This re
 ## 📂 目录结构 / Structure
 
 ```
-linguistics-hackthon-S0-deutsch/
+linguistics-hackathon-S0-deutsch/
 ├── 01-phonology-alphabet/   # 语音 & 字母  —— CP1
 ├── 02-morphology/           # 形态学       —— CP2
 ├── 03-syntax/               # 句法遍历     —— CP3

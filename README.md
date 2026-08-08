@@ -49,7 +49,7 @@ A 48-hour **learn-in-public** hackathon: one person, zero → A2 German. This re
 | 🚩 CP1 | 08-08 10:00 | 语音字母阶段笔记 + 最小可用字母/发音练习 | ✅ 达标 |
 | 🚩 CP2 | 08-08 14:00 | 形态学笔记 + 变格/变位记忆卡 + 语素体系 | ✅ 达标 |
 | 🚩 CP3 | 08-08 18:00 | 句法规则树 + 造句练习 | ✅ 达标 |
-| 🚩 CP4 | 08-08 22:00 | 综合自测 + 收官小结「48h 我到底学到了 A2 的多少」 | ⏳ 待办 |
+| 🚩 CP4 | 08-08 22:00 | 综合自测 + 收官小结「48h 我到底学到了 A2 的多少」 | ✅ 达标 |
 
 直播原则：**宁可交半成品，绝不跳过一个 checkpoint。** 卡住了就把「卡在哪」写进 commit message 也算交。
 
@@ -62,12 +62,12 @@ linguistics-hackathon-S0-deutsch/
 ├── 01-phonology-alphabet/   # 语音 & 字母  —— CP1 ✅ (README + 测试 190 题)
 ├── 02-morphology/           # 形态学       —— CP2 ✅ (README + 测试 465 题 + sp-morpheme 体系)
 ├── 03-syntax/               # 句法遍历     —— CP3 ✅ (README + 测试 312 题)
-├── 04-application/          # 应用 & 自测   —— CP4 ⏳ (点读 demo 已落地)
+├── 04-application/          # 应用 & 自测   —— CP4 ✅ (点读 demo + 综合自测 + 收官小结)
 ├── log/                     # 直播日志：每个 checkpoint 的「此刻学会了什么」
 └── README.md
 ```
 
-> 📊 **累计测试题：967 道**（CP1 190 + CP2 465 + CP3 312）· 详见 [`CHANGELOG.md`](./CHANGELOG.md)
+> 📊 **累计测试题：1019 道**（CP1 190 + CP2 465 + CP3 312 + CP4 综合 52）· 详细解析见各模块 `loesungen-detailliert.md` · 详见 [`CHANGELOG.md`](./CHANGELOG.md)
 
 ---
 
@@ -76,7 +76,7 @@ linguistics-hackathon-S0-deutsch/
 - [x] CP1 · 语音和字母学习 ✅
 - [x] CP2 · 形态学补全 ✅
 - [x] CP3 · 0–A2 句法规则遍历 ✅
-- [ ] CP4 · 应用检查 ⏳
+- [x] CP4 · 应用检查 + 综合自测 + 收官小结 ✅
 
 📝 **完整时间线与每个 checkpoint 的现场记录见 [`CHANGELOG.md`](./CHANGELOG.md)**
 

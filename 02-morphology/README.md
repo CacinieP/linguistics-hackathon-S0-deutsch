@@ -391,13 +391,40 @@ gemacht, getrunken, studiert, verstanden, aufgestanden, gekauft
 
 ---
 
-## 6. 此刻学会了什么 / 还卡在哪 (CP2 现场记录)
+## 6. 语素层级体系 (Morphem-Hierarchie) —— 本模块的延伸
+
+上表是「一格一词」的形态。想看德语词**怎么从零件组装出来**,见 [`sp-morpheme/`](../sp-morpheme/) ——把 0→C2 词汇拆到**语素**层级,7 个文件按树形分类:
+
+```
+语素
+├── 自由语素（词根 + 功能词）
+└── 黏着语素
+    ├── 派生（前缀 + 后缀）← 改变词性/词义
+    └── 屈折（变位/变格词尾）← 不改词性
+```
+
+- [`01-free-roots.md`](../sp-morpheme/01-free-roots.md) · 自由词根（~300 高频根）
+- [`02-free-function.md`](../sp-morpheme/02-free-function.md) · 自由功能词（介词/冠词/连词）
+- [`03-derivational-prefixes.md`](../sp-morpheme/03-derivational-prefixes.md) · 派生前缀（ver-/be-/er-…）
+- [`04-derivational-suffixes.md`](../sp-morpheme/04-derivational-suffixes.md) · 派生后缀（-ung/-heit/-keit…）
+- [`05-compounds.md`](../sp-morpheme/05-compounds.md) · 复合词（Kühlschrank, Apfelbaum）
+- [`06-inflectional.md`](../sp-morpheme/06-inflectional.md) · 屈折词缀（本表的变位/变格词尾）
+- [`07-examples-and-quiz.md`](../sp-morpheme/07-examples-and-quiz.md) · 例题（A1–C2 拆词练习）
+
+> 本表(§1–5)解决「**一个词变形时长什么样**」,sp-morpheme 解决「**一个词是怎么被造出来的**」。两者互补:前者是屈折(Inflection),后者偏派生(Derivation)+复合(Komposition)。
+
+---
+
+## 7. 此刻学会了什么 / 还卡在哪 (CP2 现场记录)
 
 - [x] 四格全表 + 定/不定/kein/物主四套冠词
 - [x] 现在时规则 + 强变化 du/er 元音交替
 - [x] 可分/不可分前缀 + 重音判定
-- [ ] 形容词三套变格还得查表,没到条件反射
-- [ ] Perfekt 用 haben 还是 sein 还要现场判断
+- [x] 过去分词构成五规则 + haben/sein 判断
+- [x] 语素层级体系（sp-morpheme,7 文件）
+- [x] 形容词三套变格（定冠词后 / 不定后 / 无冠词）—— 口诀已记
+- [x] 配套点读：名词连冠词发音（见 `04-application/`）
+- [x] **CP2 收尾**：形态学笔记 + 变格/变位记忆卡 + 语素体系 + 380 题测试 全部完成 ✅
 
 ---
 
